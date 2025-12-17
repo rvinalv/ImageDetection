@@ -209,3 +209,5 @@ __marimo__/
 coco_dataset/
 runs/
 dataset/
+dataset/fine_tune/
+dataset/fine_tune.yml
