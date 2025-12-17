@@ -206,3 +206,8 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 .DS_Store
+coco_dataset/
+runs/
+dataset/
+dataset/fine_tune/
+fine_tune.yml
